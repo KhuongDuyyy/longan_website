@@ -1,0 +1,14 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="var(--color-neutral-soft)"/>
+  <circle cx="229" cy="214" r="139" fill="var(--color-brand-green-light)"/>
+  <circle cx="690" cy="677" r="171" fill="var(--color-brand-cream)"/>
+  <rect x="226" y="319" width="448" height="310" rx="34" fill="var(--color-surface)" stroke="var(--color-border-soft)" stroke-width="18"/>
+  <rect x="226" y="319" width="448" height="82" rx="34" fill="var(--color-brand-green)"/>
+  <rect x="413" y="319" width="74" height="310" fill="var(--color-brand-yellow)"/>
+  <rect x="286" y="459" width="108" height="112" rx="22" fill="var(--color-longan-gold)"/>
+  <rect x="507" y="459" width="106" height="112" rx="22" fill="var(--color-dried-longan)"/>
+  <circle cx="340" cy="515" r="34" fill="var(--color-longan-cream)"/>
+  <circle cx="560" cy="515" r="34" fill="var(--color-dried-longan-light)"/>
+  <path d="M451 319C401 261 351 253 318 289C366 303 405 322 451 359C496 322 535 303 582 289C550 253 500 261 451 319Z" fill="var(--color-brand-yellow)"/>
+  <path d="M282 676H618" stroke="var(--color-brand-green-dark)" stroke-width="24" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="var(--color-brand-green-light)"/>
+  <path d="M0 575C150 510 317 507 500 573C712 649 950 648 1200 558V800H0V575Z" fill="var(--color-brand-green)"/>
+  <path d="M0 620C173 562 337 565 492 626C704 708 940 702 1200 612V800H0V620Z" fill="var(--color-brand-green-dark)"/>
+  <circle cx="944" cy="152" r="68" fill="var(--color-brand-yellow)"/>
+  <g stroke="var(--color-brand-green-dark)" stroke-width="20" stroke-linecap="round">
+    <path d="M241 582V358"/>
+    <path d="M210 449C154 399 101 391 48 423"/>
+    <path d="M263 443C319 389 378 377 438 413"/>
+    <path d="M520 588V340"/>
+    <path d="M488 447C424 384 358 372 294 410"/>
+    <path d="M547 433C610 371 674 361 742 401"/>
+    <path d="M798 575V373"/>
+    <path d="M772 457C722 407 670 398 614 431"/>
+    <path d="M824 451C875 398 928 389 985 422"/>
+  </g>
+  <g fill="var(--color-longan-cream)">
+    <circle cx="169" cy="456" r="23"/>
+    <circle cx="335" cy="438" r="24"/>
+    <circle cx="429" cy="430" r="23"/>
+    <circle cx="624" cy="424" r="24"/>
+    <circle cx="704" cy="416" r="22"/>
+    <circle cx="898" cy="431" r="23"/>
+    <circle cx="965" cy="441" r="22"/>
+  </g>
+</svg>

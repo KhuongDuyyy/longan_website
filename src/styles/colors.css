@@ -1,0 +1,58 @@
+/* Edit these tokens to change project-wide colors. */
+@theme {
+  --color-clear: transparent;
+  --color-overlay: #000000;
+  --color-surface: #ffffff;
+  --color-on-brand: #ffffff;
+
+  --color-brand-green: #43a047;
+  --color-brand-green-hover: #388e3c;
+  --color-brand-green-dark: #1f5e3b;
+  --color-brand-green-light: #dff5e1;
+  --color-brand-cream: #fff8e7;
+  --color-brand-yellow: #f4b942;
+  --color-brand-yellow-soft: #fff3c4;
+
+  --color-longan-stem: #7a4a22;
+  --color-longan-shell: #8a5a2b;
+  --color-longan-gold: #e0b25f;
+  --color-longan-gold-deep: #dca852;
+  --color-longan-gold-muted: #d9a64f;
+  --color-longan-gold-soft: #e8bb69;
+  --color-longan-gold-dark: #d6a34c;
+  --color-longan-gold-light: #ebc170;
+  --color-longan-amber: #dfae59;
+  --color-longan-amber-light: #e7bc6b;
+  --color-longan-amber-soft: #e5b967;
+  --color-longan-honey: #e9be6d;
+  --color-longan-cream: #f0c778;
+
+  --color-dried-longan: #a86a30;
+  --color-dried-longan-light: #c57b32;
+  --color-dried-longan-dark: #8e5728;
+  --color-dried-longan-deep: #9b5e2d;
+  --color-dried-longan-warm: #b87235;
+  --color-dried-longan-muted: #8d5228;
+  --color-dried-longan-soft: #a76831;
+  --color-dried-longan-rich: #8b5228;
+
+  --color-neutral-page: #fafafa;
+  --color-neutral-soft: #f7fff8;
+  --color-border-soft: #e5e7eb;
+
+  --color-section-divider: #d8eadb;
+  --color-section-hero-start: #f1fff3;
+  --color-section-hero-mid: #ffffff;
+  --color-section-hero-end: #fff4d8;
+  --color-section-featured: #ffffff;
+  --color-section-fresh: #ecfaee;
+  --color-section-dried: #fff6df;
+  --color-section-promo-start: #fff0bd;
+  --color-section-promo-mid: #fff8e7;
+  --color-section-promo-end: #e6f7df;
+
+  --color-text-main: #1f2937;
+  --color-text-muted: #6b7280;
+  --color-price-accent: #d97706;
+  --color-danger-red: #dc2626;
+}

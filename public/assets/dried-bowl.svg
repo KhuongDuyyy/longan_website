@@ -1,0 +1,15 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="var(--color-brand-cream)"/>
+  <circle cx="450" cy="405" r="234" fill="var(--color-brand-green-light)"/>
+  <path d="M199 494C220 654 313 753 451 753C588 753 682 654 703 494H199Z" fill="var(--color-surface)" stroke="var(--color-border-soft)" stroke-width="24"/>
+  <ellipse cx="451" cy="493" rx="254" ry="94" fill="var(--color-brand-yellow)"/>
+  <g>
+    <circle cx="320" cy="424" r="54" fill="var(--color-dried-longan-deep)"/>
+    <circle cx="414" cy="381" r="58" fill="var(--color-dried-longan-warm)"/>
+    <circle cx="520" cy="409" r="55" fill="var(--color-dried-longan-muted)"/>
+    <circle cx="588" cy="476" r="54" fill="var(--color-dried-longan-light)"/>
+    <circle cx="383" cy="493" r="57" fill="var(--color-dried-longan-soft)"/>
+    <circle cx="489" cy="511" r="61" fill="var(--color-dried-longan-rich)"/>
+  </g>
+  <path d="M286 698C376 731 524 731 615 699" stroke="var(--color-border-soft)" stroke-width="22" stroke-linecap="round"/>
+</svg>

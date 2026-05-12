@@ -1,0 +1,10 @@
+<svg width="900" height="650" viewBox="0 0 900 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="650" rx="36" fill="var(--color-brand-cream)"/>
+  <path d="M0 431C123 379 265 376 416 438C589 508 739 497 900 430V650H0V431Z" fill="var(--color-brand-green-light)"/>
+  <path d="M0 490C126 446 264 450 420 508C589 571 746 560 900 496V650H0V490Z" fill="var(--color-brand-green)"/>
+  <circle cx="726" cy="124" r="56" fill="var(--color-brand-yellow)"/>
+  <rect x="179" y="262" width="540" height="222" rx="34" fill="var(--color-surface)" stroke="var(--color-border-soft)" stroke-width="18"/>
+  <circle cx="334" cy="362" r="56" fill="var(--color-longan-gold)"/>
+  <circle cx="447" cy="352" r="58" fill="var(--color-longan-cream)"/>
+  <circle cx="563" cy="371" r="56" fill="var(--color-longan-gold-dark)"/>
+</svg>

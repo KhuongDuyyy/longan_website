@@ -1,0 +1,12 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="var(--color-neutral-soft)"/>
+  <rect x="265" y="132" width="370" height="626" rx="48" fill="var(--color-brand-green)"/>
+  <path d="M314 244C314 222 332 204 354 204H546C568 204 586 222 586 244V650C586 672 568 690 546 690H354C332 690 314 672 314 650V244Z" fill="var(--color-brand-cream)"/>
+  <rect x="358" y="282" width="184" height="74" rx="24" fill="var(--color-brand-green-dark)"/>
+  <text x="450" y="329" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="var(--color-surface)" text-anchor="middle">Nhãn sấy</text>
+  <circle cx="402" cy="466" r="56" fill="var(--color-dried-longan)"/>
+  <circle cx="496" cy="472" r="59" fill="var(--color-dried-longan-light)"/>
+  <circle cx="447" cy="546" r="58" fill="var(--color-dried-longan-dark)"/>
+  <path d="M352 623H548" stroke="var(--color-brand-yellow)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M362 172H538" stroke="var(--color-brand-green-light)" stroke-width="18" stroke-linecap="round"/>
+</svg>

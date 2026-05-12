@@ -1,0 +1,27 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="var(--color-neutral-soft)"/>
+  <circle cx="680" cy="160" r="170" fill="var(--color-brand-green-light)"/>
+  <circle cx="240" cy="720" r="230" fill="var(--color-brand-cream)"/>
+  <path d="M245 277C352 172 550 168 657 281C733 362 734 500 657 579C548 692 352 690 244 579C168 501 169 352 245 277Z" fill="var(--color-longan-stem)"/>
+  <ellipse cx="450" cy="420" rx="286" ry="216" fill="var(--color-longan-shell)"/>
+  <g>
+    <circle cx="326" cy="355" r="82" fill="var(--color-longan-gold-dark)"/>
+    <circle cx="431" cy="318" r="88" fill="var(--color-longan-gold)"/>
+    <circle cx="534" cy="369" r="83" fill="var(--color-longan-gold-muted)"/>
+    <circle cx="291" cy="468" r="90" fill="var(--color-longan-amber-light)"/>
+    <circle cx="420" cy="462" r="96" fill="var(--color-longan-cream)"/>
+    <circle cx="563" cy="493" r="94" fill="var(--color-longan-amber-soft)"/>
+    <circle cx="397" cy="594" r="85" fill="var(--color-longan-amber)"/>
+    <circle cx="524" cy="604" r="82" fill="var(--color-longan-honey)"/>
+  </g>
+  <g opacity=".45">
+    <circle cx="302" cy="328" r="24" fill="var(--color-brand-cream)"/>
+    <circle cx="404" cy="291" r="25" fill="var(--color-brand-cream)"/>
+    <circle cx="259" cy="440" r="24" fill="var(--color-brand-cream)"/>
+    <circle cx="390" cy="430" r="28" fill="var(--color-brand-cream)"/>
+    <circle cx="538" cy="467" r="27" fill="var(--color-brand-cream)"/>
+  </g>
+  <path d="M388 215C429 142 504 106 604 108C593 187 532 247 431 265" stroke="var(--color-brand-green-dark)" stroke-width="26" stroke-linecap="round"/>
+  <path d="M475 151C520 95 590 74 677 88C662 154 610 203 535 220" fill="var(--color-brand-green)"/>
+  <path d="M217 642C336 708 525 718 682 634" stroke="var(--color-border-soft)" stroke-width="28" stroke-linecap="round"/>
+</svg>
